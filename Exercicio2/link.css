@@ -1,0 +1,25 @@
+a{
+  color: yellow;
+	text-decoration: none;
+	background-color: blue;
+	font-size: 16pt;
+}
+/* link ainda não foi acessado */
+a:link{
+	text-decoration: underline;
+	color: red;
+}
+/* link foi acessado */
+a:visited{
+	text-decoration: none;
+	background-color: blue;
+}
+/* cursor do mouse está sobre o link */
+a:hover{
+	color: blue;
+	background-color: green;
+}
+a:active{
+	background-color: gray;
+
+}

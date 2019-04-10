@@ -1,0 +1,22 @@
+h1{
+  font-family: arial;
+  color: #8B0000
+}
+label{
+  background-color: #E9967A;
+  border: 1px solid red;
+  font-size: 14pt;
+}
+
+input.cadastro{
+  width: 100%;
+  font-size: 14pt;
+}
+
+input.radio{
+  font-size: 12pt;
+}
+
+select{
+  width: 20%;
+}

@@ -1,0 +1,13 @@
+h1{
+  font-family: arial;
+  color: #8B0000
+}
+label{
+  background-color: #E9967A;
+  border: 1px solid red;
+  font-size: 14pt;
+}
+
+input{
+  font-size: 14pt;
+}
